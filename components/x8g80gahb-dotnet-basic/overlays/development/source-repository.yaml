@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: x8g80gahb-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/x8g80gahb-dotnet-basic
